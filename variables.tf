@@ -5,7 +5,7 @@ variable "waypoint_application" {
   type        = string
 }
 
-variable "a"{
+variable "b"{
   description = "name"
   type       = string
 }

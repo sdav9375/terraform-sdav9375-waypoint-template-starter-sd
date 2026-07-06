@@ -1,9 +1,4 @@
-# Copyright (c) HashiCorp, Inc.
-
-variable "waypoint_application" {
-  description = "Name of the waypoint application, to be used in all resource names."
-  type        = string
-}
+# Copyright (c) HashiCorp, Inc
 
 variable "c"{
   description = "name"
